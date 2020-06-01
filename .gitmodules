@@ -1,0 +1,3 @@
+[submodule "LTSpice-parts"]
+	path = LTSpice-parts
+	url = https://github.com/pepaslabs/LTSpice-parts
