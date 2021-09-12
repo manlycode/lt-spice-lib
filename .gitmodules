@@ -1,3 +1,6 @@
 [submodule "LTSpice-parts"]
 	path = LTSpice-parts
 	url = https://github.com/pepaslabs/LTSpice-parts
+[submodule "LTspiceXVII"]
+	path = LTspiceXVII
+	url = https://github.com/GLuisF/LTspiceXVII.git
